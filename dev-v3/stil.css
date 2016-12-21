@@ -38,9 +38,10 @@ img {
 }
 
 #stage {
-	background: url('img/screen1.png') center center no-repeat;
+	background: url('img/screen1.jpg') center center no-repeat;
 	background-size: cover;
-	color: black;
+	font-weight: bold;
+	color: white;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -57,7 +58,7 @@ img {
 }
 
 #stage-caption h1 {
-	color: black;;
+	color: white;
 	font-weight: bold;
 	text-transform: uppercase;
 }
